@@ -4,7 +4,7 @@ import { Poppins } from "next/font/google";
 
 export const metadata = {
   title: "AiBase",
-  description: "AiBase helps you discover AI tools like chatbots, image generators, and more—all in one place with names, descriptions, links, and icons.",
+  description: "AiBase helps you discover AI tools like chatbots, image generators, and more—all in one place.",
 };
 
 const poppins = Poppins({
