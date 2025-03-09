@@ -1,5 +1,19 @@
 export const aiBase = [
     {
+        "name": "Replit Agent",
+        "link": "https://replit.com/",
+        "description": "Replit's Agent v2 is an AI system capable of creating and deploying applications based on simple user prompts. It allows users to take an application from idea to deployment in just a few minutes.",
+        "icon": "https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://replit.com&size=16",
+        "tags": ["chatbot"]
+    },
+    {
+        "name": "Claude 3.5 Sonnet",
+        "link": "https://www.anthropic.com/claude",
+        "description": "Anthropic's Claude 3.5 Sonnet is an advanced AI assistant capable of performing complex tasks autonomously, including web browsing and data analysis, enhancing productivity and efficiency.",
+        "icon": "https://www.anthropic.com/favicon.ico",
+        "tags": ["chatbot"]
+    },
+    {
         "name": "ChatGPT",
         "link": "https://chat.openai.com/",
         "description": "Developed by OpenAI, ChatGPT is a conversational AI model capable of understanding and generating human-like text, assisting with a variety of tasks including drafting emails, writing code, and answering questions.",
